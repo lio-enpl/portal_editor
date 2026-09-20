@@ -1,0 +1,8 @@
+{
+  "id": "portal-scroll-mode-plugin",
+  "name": "Scroll Mode",
+  "version": "0.1.0",
+  "description": "Right-click menu toggle: wheel = vertical, Shift+wheel = horizontal, Ctrl+wheel = zoom",
+  "main": "index.js",
+  "author": "Tomo"
+}
